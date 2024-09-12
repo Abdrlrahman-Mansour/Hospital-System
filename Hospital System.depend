@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725364505 source:c:\users\laphouse\onedrive\desktop\c\hospital system\main.cpp
+	<cassert>
+	<iostream>
+
