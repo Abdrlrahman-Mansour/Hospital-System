@@ -30,4 +30,4 @@ This project implements a **Hospital System** that manages patients in various s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hospital-system.git
+   git clone https://github.com/Abdrlrahman-Mansour/Hospital-System.git
